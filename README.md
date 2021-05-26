@@ -14,10 +14,12 @@ You can click the Preview link to take a look at your changes.
 
 <h2> Technologies&#128076; </h2>
 <ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>XML</li>
-<li>SQL</li>
-<li>Java</li>
-<li>Java Script</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>XML</li>
+  <li>XQuery</li>
+  <li>XPath</li>
+  <li>SQL</li>
+  <li>Java</li>
+  <li>Java Script</li>
 </ul>

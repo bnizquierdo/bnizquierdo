@@ -1,5 +1,5 @@
-
-<h2>Hi, I’m Belén Izquierdo </h2>
+  
+<h2 style="color:red;">Hi, I’m Belén Izquierdo </h2>
 <ul>
 <li> 👀 I’m interested in collaborate on jobs remotely </li>
 <li> 🌱 I’m currently learning Web applications development. </li>
